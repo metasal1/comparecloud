@@ -1,0 +1,170 @@
+[
+    {
+        "id": 0,
+        "Amazon": "Elastic Compute Cloud (EC2)",
+        "Google": "Compute Engine",
+        "Microsoft": "Virtual Machine",
+        "Oracle": "Virtual Machine"
+    },
+    {
+        "id": 1,
+        "Amazon": "Elastic Kubernetes Service (EKS)",
+        "Google": "Google Kubernetes Engine (GKE)",
+        "Microsoft": "Azure Kubernetes Service (AKS)",
+        "Oracle": "Oracle Container Engine"
+    },
+    {
+        "id": 2,
+        "Amazon": "Lambda",
+        "Google": "Cloud Functions",
+        "Microsoft": "Azure Functions",
+        "Oracle": "OCI Functions"
+    },
+    {
+        "id": 3,
+        "Amazon": "Simple Storage Service (S3)",
+        "Google": "Cloud Storage",
+        "Microsoft": "Blob Storage",
+        "Oracle": "Object Storage"
+    },
+    {
+        "id": 4,
+        "Amazon": "Elastic Block Store (EBS)",
+        "Google": "Persistent Disk",
+        "Microsoft": "Managed Disk",
+        "Oracle": "Persistent Volume"
+    },
+    {
+        "id": 5,
+        "Amazon": "Elastic File System",
+        "Microsoft": "File Storage",
+        "Google": "File Store",
+        "Oracle": "File Storage"
+    },
+    {
+        "id": 6,
+        "Amazon": "Virtual Private Cloud (VPC)",
+        "Microsoft": "Virtual Network",
+        "Google": "Virtual Private Cloud",
+        "Oracle": "Virtual Cloud Network"
+    },
+    {
+        "id": 7,
+        "Amazon": "Route 53",
+        "Microsoft": "DNS",
+        "Google": "Cloud DNS",
+        "Oracle": "DNS"
+    },
+    {
+        "id": 8,
+        "Amazon": "Elastic Load Balancing (ELB)",
+        "Microsoft": "Load Balancer",
+        "Google": "Cloud Load Balancing",
+        "Oracle": "Load Balancer"
+    },
+    {
+        "id": 9,
+        "Amazon": "Web Application Firewall (WAF)",
+        "Microsoft": "Web Application Firewall",
+        "Google": "Cloud Armour",
+        "Oracle": "Web Application Firewall"
+    },
+    {
+        "id": 10,
+        "Amazon": "Relational Database Service (RDS)",
+        "Microsoft": "SQL Database",
+        "Google": "Cloud SQL",
+        "Oracle": "ATP"
+    },
+    {
+        "id": 11,
+        "Amazon": "DynamoDB",
+        "Microsoft": "Cosmos DB",
+        "Google": "Firebase Realtime Database",
+        "Oracle": "NoSQL Database"
+    },
+    {
+        "id": 12,
+        "Amazon": "RedShift",
+        "Microsoft": "Synapse Analytics",
+        "Google": "BiqQuery",
+        "Oracle": "Autonomous Data Warehouse"
+    },
+    {
+        "id": 13,
+        "Amazon": "Elastic MapReduce (EMR)",
+        "Microsoft": "HDInsight",
+        "Google": "DataProc",
+        "Oracle": "Big Data"
+    },
+    {
+        "id": 14,
+        "Amazon": "Kinesis",
+        "Microsoft": "Streaming Analytics",
+        "Google": "Dataflow",
+        "Oracle": "Streaming"
+    },
+    {
+        "id": 15,
+        "Amazon": "SageMaker",
+        "Microsoft": "Machine Learning",
+        "Google": "Vertex AI",
+        "Oracle": "Data Science"
+    },
+    {
+        "id": 16,
+        "Amazon": "Glue",
+        "Microsoft": "Data Factory",
+        "Google": "Data Fusion",
+        "Oracle": "Data Integration"
+    },
+    {
+        "id": 17,
+        "Amazon": "EventBridge",
+        "Microsoft": "Event Grid",
+        "Google": "EventArc",
+        "Oracle": "Events"
+    },
+    {
+        "id": 18,
+        "Amazon": "Simple Queuing Service (SQS)",
+        "Microsoft": "Storage Queues",
+        "Google": "Pub/Sub",
+        "Oracle": "Streaming"
+    },
+    {
+        "id": 19,
+        "Amazon": "Simple Notification Service (SNS)",
+        "Microsoft": "Service Bus",
+        "Google": "Firebase Cloud Messaging",
+        "Oracle": "Notifications"
+    },
+    {
+        "id": 20,
+        "Amazon": "CloudWatch",
+        "Microsoft": "Monitor",
+        "Google": "Cloud Monitoring",
+        "Oracle": "Monitoring"
+    },
+    {
+        "id": 21,
+        "Amazon": "CloudFormation",
+        "Microsoft": "Resource Monitor",
+        "Google": "Deployment Manager",
+        "Oracle": "Resource Manager"
+    },
+    {
+        "id": 22,
+        "Amazon": "Identity and Access Management (IAM)",
+        "Microsoft": "Active Directory",
+        "Google": "Cloud Identity",
+        "Oracle": "IAM"
+    },
+    {
+        "id": 23,
+        "Amazon": "Key Management Service (KMS)",
+        "Microsoft": "Key Vault",
+        "Google": "Cloud KMS",
+        "Oracle": "Vault"
+    }
+]
